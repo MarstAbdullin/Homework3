@@ -6,7 +6,11 @@
 
     <groupId>11-803</groupId>
     <artifactId>Homework3</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>Homework4</module>
+    </modules>
 
 
 </project>
